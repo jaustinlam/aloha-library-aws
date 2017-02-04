@@ -85,6 +85,7 @@ A fictional library built that allows user sign up, see books and check books in
 > Enabled a Firewall, changed SSH port to 2200 allowed HTTP and NTP
 > Additional security for repeated unsuccessful logging attempts initialized with fail2ban 
 > Configured the time zone to UTC
+> Configured PostgreSQL database to not allow remote connections
 > Suppressed the Apache "Could not reliably determine the servers......" message when logging in localhost
 
 ## Summary of resources used to create this project
